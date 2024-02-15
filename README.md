@@ -10,12 +10,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31.svg?&style=for-the-badge&logo=Amazon-S3&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 
 
 [![코드트리|실력진단-juneh2633](https://banner.codetree.ai/v1/banner/juneh2633)](https://www.codetree.ai/profiles/juneh2633)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juneh0324)](https://solved.ac/juneh0324/)
 
 <!--
