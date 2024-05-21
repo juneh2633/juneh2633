@@ -26,10 +26,6 @@
 
 
 
-[![코드트리|실력진단-juneh2633](https://banner.codetree.ai/v1/banner/juneh2633)](https://www.codetree.ai/profiles/juneh2633)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juneh0324)](https://solved.ac/juneh0324/)
-
 <!--
 **juneh2633/juneh2633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
